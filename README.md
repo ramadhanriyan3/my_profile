@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramadhanriyan3
-- 👀 I’m interested in data scientis
-- 🌱 I’m currently learning python
+- 👀 I’m interested in data scientis, and web development
+- 🌱 I’m currently learning javaScript, css, and html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
